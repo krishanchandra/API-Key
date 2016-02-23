@@ -1,0 +1,5 @@
+name = Custom API Key
+description = Add a API key in site information & JSON output
+core = 7.x
+version = "7.x"
+project = "Custom API Key"
